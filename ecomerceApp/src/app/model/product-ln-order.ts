@@ -1,4 +1,5 @@
-import {ProductInfo} from "./productInfo";
+import { ProductInfo } from "./product-info";
+
 
 export class ProductInOrder {
   productId: string;

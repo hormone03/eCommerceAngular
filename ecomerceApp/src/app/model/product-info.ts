@@ -1,6 +1,5 @@
-export class ProductInfo {
-}
-import {ProductInOrder} from "./ProductInOrder";
+import { ProductInOrder } from "./product-ln-order";
+
 
 export class ProductInfo {
   productId: string;

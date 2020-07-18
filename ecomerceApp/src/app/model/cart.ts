@@ -1,12 +1,7 @@
-import {ProductInOrder} from "./ProductInOrder";
-
+import { ProductInOrder } from "./product-ln-order";
 
 export class Cart {
-<<<<<<< HEAD
-  cartId: number;
-  products: ProductInOrder[];
-=======
     cartId: number;
     products: ProductInOrder[];
->>>>>>> origin/master
+
 }
