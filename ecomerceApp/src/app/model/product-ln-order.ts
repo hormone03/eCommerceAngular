@@ -1,6 +1,4 @@
 import { ProductInfo } from "./product-info";
-
-
 export class ProductInOrder {
   productId: string;
   productName: string;
